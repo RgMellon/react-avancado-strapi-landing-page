@@ -14,8 +14,7 @@
 
 ## 🎧 Sobre
 
-o Projeto **LandingPage Backend** é um projeto feito utilizando **STRAPI** que é um Headless CMS além disso é Developer-Friendly API. O curso em que eu aprendi foi :
-[React Avançado](#https://reactavancado.com.br/)
+o Projeto **LandingPage Backend** é um projeto feito utilizando **STRAPI** que é um Headless CMS além disso é Developer-Friendly API. O projeto foi desenvolvido no curso [React Avançado](#https://reactavancado.com.br/)
 
 ---
 
