@@ -14,8 +14,8 @@
 
 ## 🎧 Sobre
 
-o Projeto **LandingPage** é um projeto feito utilizando **NextJs** ele é um dos projetos feito do curso
-[React Avançado](#https://reactavancado.com.br/) com o intuito de aprofundar em NEXT e GRAPHQL
+o Projeto **LandingPage Backend** é um projeto feito utilizando **STRAPI** que é um Headless CMS além disso é Developer-Friendly API. O curso em que eu aprendi foi :
+[React Avançado](#https://reactavancado.com.br/)
 
 ---
 
@@ -38,11 +38,8 @@ segue alguns prints do projeto
 
 O projeto foi feito utilizando das seguines tecnologias
 
-- ReactJS
-- NextJS
-- Styled-Components
+- STRAPI
 - GraphQL
-- Typescript
 
 ---
 
@@ -50,22 +47,16 @@ O projeto foi feito utilizando das seguines tecnologias
 
 ```bash
   #clonar o repositorio
-  $ git clone https://github.com/RgMellon/react-avancado-next-landing-page
+  $ git clone https://github.com/RgMellon/react-avancado-strapi-landing-page
 
   #entrar na pasta do projeto
   $ cd react-avancado-next-landing-page
 
-  #instalar as dependencias
-  $ yarn install
-
   #executar o projeto
-  $ yarn dev
+  $ docker-compose up
+
 ```
 
 ---
-
-## 💻 Funcionalidades
-
-Uma simples landing page contendo as informações do curso.
 
 Desenvolvido com ♥ por Renan Melo
